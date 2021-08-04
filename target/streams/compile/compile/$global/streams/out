@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/srijesh/Workspace/rew3-project/email-client-test/src/main/scala/GmailIntegration.scala:99:19: value foreach is not a member of java.util.List[com.google.api.services.gmail.model.Label][0m
+[0m[[0m[31merror[0m] [0m[0m    for (label <- labels) {[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: io.rest-assured:rest-assured-common:4.4.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/io.rest-assured/rest-assured-common/bundles/rest-assured-common-4.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/io.rest-assured/rest-assured-common/srcs/rest-assured-common-4.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
