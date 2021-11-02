@@ -4,7 +4,7 @@
 		module="email-client-test_2.12"
 		revision="0.1"
 		status="integration"
-		publication="20210802130144"
+		publication="20210810141955"
 	>
 		<description>
 		email-client-test
@@ -38,7 +38,7 @@
 		<dependency org="com.google.oauth-client" name="google-oauth-client-jetty" rev="1.31.5" conf="compile->default(compile)"/>
 		<dependency org="com.google.apis" name="google-api-services-gmail" rev="v1-rev110-1.25.0" conf="compile->default(compile)"/>
 		<dependency org="com.google.http-client" name="google-http-client-jackson2" rev="1.39.2" conf="compile->default(compile)"/>
-		<dependency org="javax.mail" name="javax.mail-api" rev="1.6.2" conf="compile->default(compile)"/>
+		<dependency org="com.sun.mail" name="javax.mail" rev="1.6.2" conf="compile->default(compile)"/>
 		<dependency org="org.jsoup" name="jsoup" rev="1.14.1" conf="compile->default(compile)"/>
 		<dependency org="io.rest-assured" name="rest-assured" rev="4.4.0" conf="test->default(compile)"/>
 		<dependency org="io.rest-assured" name="rest-assured-common" rev="3.0.0" conf="compile->default(compile)"/>

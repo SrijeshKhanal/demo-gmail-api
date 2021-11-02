@@ -1,4 +1,7 @@
-[0m[[0m[31merror[0m] [0m[0m/home/srijesh/Workspace/rew3-project/email-client-test/src/main/scala/GmailIntegration.scala:99:19: value foreach is not a member of java.util.List[com.google.api.services.gmail.model.Label][0m
-[0m[[0m[31merror[0m] [0m[0m    for (label <- labels) {[0m
-[0m[[0m[31merror[0m] [0m[0m                  ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0m/home/srijesh/Workspace/rew3-project/email-client-test/src/main/scala/CreateMessage.scala:33:17: class Nothing is abstract; cannot be instantiated[0m
+[0m[[0m[31merror[0m] [0m[0m    val props = new Nothing[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/srijesh/Workspace/rew3-project/email-client-test/src/main/scala/CreateMessage.scala:79:17: class Nothing is abstract; cannot be instantiated[0m
+[0m[[0m[31merror[0m] [0m[0m    val props = new Nothing[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

@@ -18,7 +18,8 @@ val CompileDeps = Seq(
   "com.google.oauth-client" % "google-oauth-client-jetty" % "1.31.5",
   "com.google.apis" % "google-api-services-gmail" % "v1-rev110-1.25.0",
   "com.google.http-client" % "google-http-client-jackson2" % "1.39.2",
-  "javax.mail" % "javax.mail-api" % "1.6.2",
+  "com.sun.mail" % "javax.mail" % "1.6.2",
+  //"javax.mail" % "javax.mail-api" % "1.6.2",
   "org.jsoup" % "jsoup" % "1.14.1",
   "io.rest-assured" % "rest-assured" % "4.4.0" % Test,
   "io.rest-assured" % "rest-assured-common" % "3.0.0"
